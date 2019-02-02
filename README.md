@@ -25,10 +25,10 @@ I need a data structure to help me solve the problem and it will be like this:
 (notice section_number is the number in the section_name, for exmaple, 'Promenade Level 425' is 425)
 ```json
 {
-    <section_number> : [
+    "<section_number>" : [
         {
-            "section_name": 'Reserve 17',
-            "section_id": '224',
+            "section_name": "Reserve 17",
+            "section_id": "224",
             "row_map": {
                 "row_name" : "row_id"
             }
